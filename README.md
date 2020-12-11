@@ -13,7 +13,7 @@ I am Olivia Leijon, an IT Logistics Manager at Stockholm University. I love to s
   - :thinking: No current projects, need some advice.
   - :innocent: Mistakes happen, how else would I learn?
   - :mailbox: Reach out to me at: o.leijon00@gmail.com.
-  - :rainbow: Pronouns: She/her.
+  - :rainbow: She/her.
   - :hankey: The definition of quirkiness is me.
 
 #### Primary Capabilities
