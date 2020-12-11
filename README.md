@@ -14,7 +14,7 @@ I am Olivia Leijon, an IT Logistics Manager at Stockholm University. I love to s
   - :mailbox: Reach out to me at: o.leijon00@gmail.com.
   - :rainbow: Pronouns: She/her.
   - :hankey: The definition of quirkiness is me.
-  - Active <img src="https://img.shields.io/badge/-Discord-8e9fda?style=flat&labelColor=7289DA&logo=discord&logoColor=white"/> user. Reach me at `Olivia#0420`
+  - <img src="https://img.shields.io/badge/-Discord-8e9fda?style=flat&labelColor=7289DA&logo=discord&logoColor=white"/> `Olivia#0420`
 
 #### Primary Capabilities
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=2a567c&logo=python&logoColor=white) 
