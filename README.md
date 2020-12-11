@@ -33,11 +33,11 @@ Olivia#0420```
 <!-- - :paperclip: [My Resume/CV]() -->
 - :email: o.leijon00@gmail.com
  
-<br/><br/><br/>
+<br/><br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olivialeijon&theme=omni"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=olivialeijon&theme=omni"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=olivialeijon&count_private=true&theme=omni&hide=contribs,prs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=olivialeijon&count_private=true&theme=omni&hide=contribs,prs" />
 </a>
