@@ -27,7 +27,7 @@ Olivia#0420```
 ###### (Which I am comfortable with) 
 ![Apple Badge](https://img.shields.io/badge/-macOS-999999?style=for-the-badge&labelColor=666666&logo=apple&logoColor=white)
 ![Windows Badge](https://img.shields.io/badge/-Windows-008fff?style=for-the-badge&labelColor=0078D6&logo=windows&logoColor=white)
-![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-e87750?style=for-the-badge&labelColor=E95420&logo=ubuntu&logoColor=white)
+![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&labelColor=dd4814&logo=ubuntu&logoColor=white)
 
 #### Business Related
 <!-- - :paperclip: [My Resume/CV]() -->
