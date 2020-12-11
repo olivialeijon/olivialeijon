@@ -33,17 +33,9 @@ Olivia#0420```
 <!-- - :paperclip: [My Resume/CV]() -->
 - :email: o.leijon00@gmail.com
   
-#### Profile Visits
-![visitors](https://visitor-badge.glitch.me/badge?page_id=olivialejon.olivialeijon)
-
-<details>
-<summary>
-My GitHub stats
-</summary>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olivialeijon&theme=omni"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=olivialeijon&count_private=true&theme=omni&hide=contribs,prs" />
 </a>
-</details>
