@@ -26,7 +26,7 @@ I am Olivia Leijon, an IT Logistics Manager at Stockholm University. I love to s
 ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-e87750?style=for-the-badge&labelColor=E95420&logo=ubuntu&logoColor=white)
 
 #### Business Related
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+<!-- - :paperclip: [My Resume/CV]() -->
 - :email: o.leijon00@gmail.com
   
 #### Profile Visits
