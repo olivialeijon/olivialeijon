@@ -40,7 +40,7 @@ I am Olivia Leijon, an IT Logistics Manager at Stockholm University. I love to s
 My GitHub stats
 </summary>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivialeijon&theme=omni" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olivialeijon&theme=omni"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=olivialeijon&count_private=true&theme=omni&hide=contribs,prs" />
