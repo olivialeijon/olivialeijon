@@ -32,7 +32,9 @@ Olivia#0420```
 #### Business Related
 <!-- - :paperclip: [My Resume/CV]() -->
 - :email: o.leijon00@gmail.com
-  
+ 
+<br/><br/><br/>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olivialeijon&theme=omni"/>
 </a>
