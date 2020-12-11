@@ -8,7 +8,8 @@ I am Olivia Leijon, an IT Logistics Manager at Stockholm University. I love to s
 [![Linkedin Badge](https://img.shields.io/badge/-Olivia-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olivia-leijon-851b97170/)
 [![IG Badge](https://img.shields.io/badge/-@olivvyidk-e84364?style=flat&labelColor=e84364&logo=instagram&logoColor=white)](https://instagram.com/olivvyidk)
 [![Mail Badge](https://img.shields.io/badge/-o.leijon00-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:o.leijon00@gmail.com)
-###### Also... <img src="https://img.shields.io/badge/-Discord-8e9fda?style=flat&labelColor=7289DA&logo=discord&logoColor=white"/> `Olivia#0420`
+<img src="https://img.shields.io/badge/-Discord-8e9fda?style=flat&labelColor=7289DA&logo=discord&logoColor=white"/> -> ```
+Olivia#0420```
 
   - :thinking: No current projects, need some advice.
   - :innocent: Mistakes happen, how else would I learn?
