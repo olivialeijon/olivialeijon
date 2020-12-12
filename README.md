@@ -23,8 +23,8 @@ Olivia#0420```
 ![SQLite Badge](https://img.shields.io/badge/-SQLite-006392?style=for-the-badge&labelColor=003B57&logo=sqlite&logoColor=white)
 ![SQL Badge](https://img.shields.io/badge/-SQL-006392?style=for-the-badge&labelColor=black)
 
-#### Operating Systems
-(Which I am comfortable with)
+#### Operating Systems (Which I am comfortable with)
+
 
 ![Apple Badge](https://img.shields.io/badge/-macOS-999999?style=for-the-badge&labelColor=666666&logo=apple&logoColor=white)
 ![Windows Badge](https://img.shields.io/badge/-Windows-008fff?style=for-the-badge&labelColor=0078D6&logo=windows&logoColor=white)
