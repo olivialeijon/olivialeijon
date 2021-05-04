@@ -10,7 +10,7 @@ I am Olivia Leijon, an IT Logistics Manager/IT Support Technician at Stockholm U
 <img src="https://img.shields.io/badge/-Discord-8e9fda?style=flat&labelColor=7289DA&logo=discord&logoColor=white"/> -> ```
 Olivia#0420```
 
-  - :thinking: No current projects, need some advice.
+  - :thinking: No current projects, need some ideas.
   - :innocent: Mistakes happen, how else would I learn?
   - :mailbox: Reach out to me at: o.leijon00@gmail.com.
   - :rainbow: She/her.
