@@ -1,6 +1,6 @@
 ## Hey you, yes you <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" style="max-width:100%;" width="24px">
 
-I am Olivia Leijon, an IT Logistics Manager at Stockholm University. I love to spend time thinking about ways to automate and streamline processes.
+I am Olivia Leijon, an IT Logistics Manager/IT Support Technician at Stockholm University. I love to spend time thinking about ways to automate and streamline processes.
 
 :mailbox: Reach out to me!
 
