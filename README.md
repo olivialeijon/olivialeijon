@@ -6,9 +6,6 @@ I am Olivia Leijon. I love to spend time thinking about ways to automate and str
 
 <!-- Fix badges -->
 [![Linkedin Badge](https://img.shields.io/badge/-Olivia-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olivialeijon)
-[![Mail Badge](https://img.shields.io/badge/-o.leijon00-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:o.leijon00@gmail.com)
-<img src="https://img.shields.io/badge/-Discord-8e9fda?style=flat&labelColor=7289DA&logo=discord&logoColor=white"/> -> ```
-Olivia#0420```
 
   - :thinking: Self taught, give me some project ideas!
   - :innocent: Mistakes happen, how else would I learn?
